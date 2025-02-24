@@ -1,5 +1,7 @@
 # RUTH-NTHENYA-KIOKO
 
+# Data scientist/Data Analyst
+
 #### Hi there, I'm Ruth ! 👋I'm a passionate Data Scientist and a monitoring evaluiation enthusiast with a love for building innovative solutions and solving complex problems. You can ask me about  Exploratory data analysis (EDA),Visualization and Machine learning. I am open to collaboration on  projects related areas above.
 
 ## 🛠️ Technologies & Tools
