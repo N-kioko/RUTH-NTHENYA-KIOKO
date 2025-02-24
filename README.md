@@ -15,7 +15,7 @@
 ## ⚙️ Skills
 
 - **Data manipulation and cleaning:Pandas, NumPy**
-Data visualization: Matplotlib, Seaborn, Tableau**
+- **Data visualization: Matplotlib, Seaborn, Tableau**
 - **Machine learning algorithms: Regression,NLP, Classification, Clustering**
 - **Model evaluation: Cross-validation,Hyperparameter tuning**
 
