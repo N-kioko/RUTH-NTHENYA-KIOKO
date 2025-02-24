@@ -15,6 +15,7 @@
 ## ⚙️ Skills
 
 - **Data manipulation and cleaning:Pandas, NumPy**
+- **Database management :My SQL (sqlite3)**
 - **Data visualization: Matplotlib, Seaborn, Tableau**
 - **Machine learning algorithms: Regression,NLP, Classification, Clustering**
 - **Model evaluation: Cross-validation,Hyperparameter tuning**
@@ -23,7 +24,7 @@
 
 - **[CUSTOMER CHURN ANALYSIS](https://github.com/N-kioko/CUSTOMER-CHURN-ANALYSIS/tree/main)** :This project uses predictive models such as logistic regression and decision trees to forecast customer churn
 
-- **[SMART PHONE PRICE PREDICTION](https://github.com/bourzat/Jumia_Smartphones_Price_Prediction-_Optimizing_Retail_Strategies_through_Data_Analytics)** : The project focuses on Iterative approcah in modelling to create an optimal model in predicting phone prices for customers and retailers. Proud to have plates  the scrum master role in this particular project where I have employed my project management skills using [GitProject](https://github.com/users/N-kioko/projects/1/views/1)
+- **[SMART PHONE PRICE PREDICTION](https://github.com/bourzat/Jumia_Smartphones_Price_Prediction-_Optimizing_Retail_Strategies_through_Data_Analytics)** : The project focuses on Iterative approach in modelling to create an optimal model in predicting phone prices for customers and retailers. Proud to have been the scrum master in this particular project where I have employed my project management skills using [GitProject](https://github.com/users/N-kioko/projects/1/views/1)
  
  - **[TWITTER SENTIMENT ANALYSIS](https://github.com/ShamlaA/Phase_4_Project)** :In this project, we  create a machine learning model that classifies the sentiment of tweets into positive, negative, or neutral categories. By accurately identifying these sentiments, a company gains important insights into customer opinions, detect possible product concerns, and discover areas for improvement.
 
