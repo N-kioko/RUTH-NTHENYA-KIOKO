@@ -2,7 +2,7 @@
 
 # Data scientist/Data Analyst
 
-#### Hi there, I'm Ruth ! 👋I'm a passionate Data Scientist and a Monitoring Evaluation enthusiast with a love for building innovative solutions and solving complex problems. You can ask me about  Exploratory data analysis (EDA),Visualization and Machine learning. I am open to collaboration on  projects related areas above.
+#### Hi there, I'm Ruth ! 👋I'm a passionate Data Scientist and a Monitoring Evaluation enthusiast with a love for building innovative solutions and solving complex problems. You can ask me about  Exploratory Data Analysis (EDA),Data Visualization, Machine learning and Natural  Language processing. I am open to collaboration on  projects related areas above.
 
 ## 🛠️ Technologies & Tools
 
