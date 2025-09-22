@@ -16,9 +16,10 @@
 
 - **Data manipulation and cleaning:Pandas, NumPy**
 - **Database management :My SQL (sqlite3)**
-- **Data visualization: Matplotlib, Seaborn, Tableau**
+- **Data visualization: Matplotlib, Seaborn, PowerBI Tableau**
 - **Machine learning algorithms: Regression,NLP, Classification, Clustering**
 - **Model evaluation: Cross-validation,Hyperparameter tuning**
+- **Designing data collection and research tools: Kobo Collect**
 
 ## 🚀 Featured Projects
 
